@@ -1,4 +1,4 @@
-![10](https://github.com/user-attachments/assets/8b90da1e-31a6-4147-a05f-68cf0f02fcdb)# Aplikasi Buku Alamat
+# Aplikasi Buku Alamat
  
 Aplikasi ini adalah program Java berbasis GUI yang memungkinkan pengguna untuk mengelola entri, memungkinkan pengguna untuk menambah, mengubah, menghapus, dan mencari entri dengan mudah. Selain itu aplikasi ini bisa mengekspor dan mengimpor entri.
 
