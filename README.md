@@ -8,11 +8,11 @@ Aplikasi ini adalah program Java berbasis GUI yang memungkinkan pengguna untuk m
 - Kelas : 5B NonReg Banjarmasin
 
 ## Fitur
-- **Menambah Entri**: Pengguna dapat menambah kontak baru dengan nama, nomor telepon, dan kategori.
-- **Mengubah Entri**: Pengguna dapat mengubah informasi kontak yang sudah ada.
-- **Menghapus Entri**: Pengguna dapat menghapus kontak dari daftar.
-- **Mencari Entri**: Pengguna dapat mencari kontak berdasarkan nama.
-- **Ekspor dan Impor**: Pengguna dapat mengekspor kontak ke file CSV dan mengimpor dari file CSV.
+- **Menambah Entri**: Pengguna dapat menambah entri baru dengan nama, alamat, kota dan telepon.
+- **Mengubah Entri**: Pengguna dapat mengubah informasi entri yang sudah ada.
+- **Menghapus Entri**: Pengguna dapat menghapus entri dari database.
+- **Mencari Entri**: Pengguna dapat mencari entri berdasarkan nama.
+- **Ekspor dan Impor**: Pengguna dapat mengekspor entri ke file CSV dan mengimpor dari file CSV.
 - **Validasi Input**: Memastikan bahwa nomor telepon yang dimasukkan valid (10-14 digit).
 
 ## Cara Menggunakan
@@ -25,13 +25,13 @@ Aplikasi ini adalah program Java berbasis GUI yang memungkinkan pengguna untuk m
 ## Teknologi yang Digunakan
 - **Java**: Bahasa pemrograman yang digunakan untuk membangun aplikasi.
 - **Swing**: Library Java untuk membuat antarmuka pengguna grafis (GUI).
-- **SQL**: Digunakan untuk pengelolaan basis data kontak.
-- **TXT**: Format file untuk ekspor dan impor data kontak.
+- **SQL**: Digunakan untuk pengelolaan basis data entri.
+- **TXT**: Format file untuk ekspor dan impor data entri.
 - **Library SQLite**: sqlite-jdbc-3.47.0.0.jar untuk menyimpan data secara lokal.
 
 ## Keunggulan
 - **User-Friendly**: Antarmuka pengguna yang intuitif dan mudah digunakan.
-- **Fleksibilitas**: Memungkinkan pengguna untuk mengelola kontak dengan cara yang efisien.
+- **Fleksibilitas**: Memungkinkan pengguna untuk mengelola entri dengan cara yang efisien.
 - **Data Validasi**: Memastikan data yang dimasukkan valid untuk menghindari kesalahan.
 - **Ekspor dan Impor**: Memudahkan pengguna dalam menyimpan dan memulihkan data entri.
 
